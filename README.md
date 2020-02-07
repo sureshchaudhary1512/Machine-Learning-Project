@@ -10,8 +10,10 @@ Process of predicting a continous value (i.e not Discrete value)
 the objective is to minimize  Mean square Error (MSE)
 
 #  Simple Regression, Multiple Regression and Non linear Regression.
-# K-Nearest Neighbors 
-# Logistic Regression
+
+# 2. K-Nearest Neighbors
+
+# 3.Logistic Regression
 
 
 
