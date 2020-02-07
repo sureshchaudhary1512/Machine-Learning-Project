@@ -15,7 +15,7 @@ the objective is to minimize  Mean square Error (MSE)
 
 # 3.Logistic Regression
 
-<img src="images/	Coursera ML Certificat">
+<img src="images/	CourseraMLCertificat.pdf">
 
 
 
